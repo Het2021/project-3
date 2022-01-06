@@ -1,0 +1,21 @@
+section h1{
+    padding: 20px 10px;
+    text-align: center;
+}
+section{
+    padding-top: 70px;
+}
+.center{
+   text-align: center;
+}
+.center img{
+    width: 225px;
+    height: 225px;
+    padding: 20px;
+}
+@media screen and (max-width: 991px) {
+    section{
+        padding-top: 210px;
+    }
+    
+}
